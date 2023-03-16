@@ -15,7 +15,7 @@
         🚀 My primary focus is on React development, but I'm always excited to learn new things!
     </li>
 </ul>
-<h2>My Projects 🛠️</h2>
+<h2>Some Of My Projects 🛠️</h2>
 <ul>
     <li>
         Project 1: Matheus Finatto's Movies Library - a React app that utilizes the
