@@ -2,7 +2,7 @@
 <h2>About Me</h2>
 <ul>
     <li>
-        👨‍💻 I'm a web developer with 6 months of experience working with React and Antd at an ERP company.
+        👨‍💻 I'm a web developer with some experience working with React.
     </li>
     <li>
         📚 I'm also a Computer Science student currently in my 5th out of 8 semesters, and I have a Bachelor's degree in
