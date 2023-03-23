@@ -18,23 +18,19 @@
 <h2>Some Of My Projects 🛠️</h2>
 <ul>
     <li>
-        <b>Matheus Finatto's Movies Library</b> - a React app that utilizes the
+        <a href = 'https://github.com/MatheusFinatto/movies-library'>Matheus Finatto's Movies Library</a> - a React app that utilizes the
         TMDB API to display information about movies, allowing users to search and
         browse for their favorite movies. <br />
-        See more about this project on
-        <a>https://github.com/MatheusFinatto/movies-library</a>.
     </li>
     <li>
-        <b>Bootstrap Website Design</b> - a responsive website design using only
+        <a href = 'https://github.com/MatheusFinatto/tde2-web'>Bootstrap Website Design</a> - a responsive website design using only
         HTML and CSS features. This project was made for college classes and
         demonstrates the use of a grid system, including a sidebar. <br />
-        See more about this project on
-        <a>https://github.com/MatheusFinatto/tde2-web</a>.
     </li>
     <li>
-<b>IGDB based Games Library</b> - A Flask app that utilizes the IGDB API to display information about games. A college project made with another three students, so it is the most complete work you will see, but not everything was made by me. However, this project is very good and you can see a lot of my work in the "best games" tab of the website. <br />
-        See more about this project on
-        <a>https://github.com/MatheusFinatto/projeto-entregador-5</a>.
+        <a href = 'https://github.com/MatheusFinatto/projeto-entregador-5'>IGDB based Games Library</a> - A Flask app that utilizes the IGDB API to display information about games. This is a Flask app that utilizes the IGDB API to display information about games. This project is one of my best non-professional works, but not everything was made by me, since I collaborated with three other students for this college project. I'm particularly proud of my contribution to the "best games" section of the website, witch I developed entirely by my own. While I didn't work on every aspect of the project, it's an excellent demonstration of my skills and abilities. <br />
+ <b>If you had to choose just one project to see, I would highly recommend this one, since it's the most complete of them.</b>
+        <br>
     </li>
 </ul>
 <h2>My Areas of Interest 🌟 </h2>
