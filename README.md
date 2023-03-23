@@ -18,18 +18,23 @@
 <h2>Some Of My Projects 🛠️</h2>
 <ul>
     <li>
-        Matheus Finatto's Movies Library - a React app that utilizes the
+        <b>Matheus Finatto's Movies Library</b> - a React app that utilizes the
         TMDB API to display information about movies, allowing users to search and
         browse for their favorite movies. <br />
         See more about this project on
         <a>https://github.com/MatheusFinatto/movies-library</a>.
     </li>
     <li>
-        Bootstrap Website Design - a responsive website design using only
+        <b>Bootstrap Website Design</b> - a responsive website design using only
         HTML and CSS features. This project was made for college classes and
         demonstrates the use of a grid system, including a sidebar. <br />
         See more about this project on
         <a>https://github.com/MatheusFinatto/tde2-web</a>.
+    </li>
+    <li>
+<b>IGDB based Games Library</b> - A Flask app that utilizes the IGDB API to display information about games. A college project made with another three students, so it is the most complete work you will see, but not everything was made by me. However, this project is very good and you can see a lot of my work in the "best games" tab of the website. <br />
+        See more about this project on
+        <a>https://github.com/MatheusFinatto/projeto-entregador-5</a>.
     </li>
 </ul>
 <h2>My Areas of Interest 🌟 </h2>
