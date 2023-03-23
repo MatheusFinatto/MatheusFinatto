@@ -18,8 +18,9 @@
         🚀 My primary focus is on React development, but I'm always excited to learn new things!
     </li>
 </ul>
+
 <details>
-    <summary>See more info about me!</summary>
+    <summary><h2>See more info about me!</h2></summary>
 
 <h2>Some Of My Personal Projects 🛠️</h2>
 <ul>
@@ -89,8 +90,8 @@
 </thead>
 <tbody>
 <tr>
-<td><strong>React Developer</strong></td>
-<td><strong>Wonder sistemas</strong></td>
+<td><strong>Web Developer</strong></td>
+<td><strong>Wonder Sistemas</strong></td>
 <td><strong>Front-End With React</strong></td>
 <td><strong>2022-10 — until now</strong></td>
 </tr>
@@ -106,15 +107,15 @@
     
     
 </details>
-<p>
-    Feel free to check out my repositories and projects! I'm always open to answer any questions you may have.
-</p>
+
 <h2>Want to know me better?</h2>
-<p>Check out my Linkedin Or Contact Me on Instagram 📫 </p>
+<p>Check out my LinkedIn Or Contact Me on Instagram/WhatsApp! 📫 </p>
 <a href="https://www.linkedin.com/in/matheusfinatto" rel="nofollow">
-    <img height="32" align="left" alt="LinkedIn" src="https://github.com/cszach/cszach/raw/master/img/icons/linkedin.png" style="max-width: 100%;">
+    <img height="32" align="left" alt="LinkedIn" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" style="max-width: 100%;">
 </a>
 <a href="https://www.instagram.com/matheusfinatto" rel="nofollow">
-    <img height="32" align="left" alt="Instagram" src="https://github.com/cszach/cszach/raw/master/img/icons/instagram.png" style="max-width: 100%;">
+    <img height="32" align="left" alt="Instagram" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" style="max-width: 100%;">
 </a>
-<br>
+<a href="https://www.wa.link/teaojq" rel="nofollow">
+    <img height="32" align="left" alt="WhatsApp" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg" style="max-width: 100%;">
+</a>
