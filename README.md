@@ -18,14 +18,14 @@
 <h2>Some Of My Projects 🛠️</h2>
 <ul>
     <li>
-        Project 1: Matheus Finatto's Movies Library - a React app that utilizes the
+        Matheus Finatto's Movies Library - a React app that utilizes the
         TMDB API to display information about movies, allowing users to search and
         browse for their favorite movies. <br />
         See more about this project on
         <a>https://github.com/MatheusFinatto/movies-library</a>.
     </li>
     <li>
-        Project 2: Bootstrap Website Design - a responsive website design using only
+        Bootstrap Website Design - a responsive website design using only
         HTML and CSS features. This project was made for college classes and
         demonstrates the use of a grid system, including a sidebar. <br />
         See more about this project on
