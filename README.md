@@ -35,7 +35,7 @@
         demonstrates the use of a grid system, including a sidebar. <br />
     </li>
     <li>
-        <a href = 'https://github.com/MatheusFinatto/projeto-entregador-5'>IGDB based Games Library</a> - A Flask app that utilizes the IGDB API to display information about games. This is a Flask app that utilizes the IGDB API to display information about games. This project is one of my best non-professional works, but not everything was made by me, since I collaborated with three other students for this college project. I'm particularly proud of my contribution to the "best games" section of the website, witch I developed entirely by my own. While I didn't work on every aspect of the project, it's an excellent demonstration of my skills and abilities. <br />
+        <a href = 'https://github.com/MatheusFinatto/projeto-entregador-5'>IGDB based Games Library</a> - This is a Flask app that utilizes the IGDB API to display information about games. This project is one of my best non-professional works, but not everything was made by me, since I collaborated with three other students for this college project. I'm particularly proud of my contribution to the "best games" section of the website, witch I developed entirely by my own.<br />
  <b>If you had to choose just one project to see, I would highly recommend this one, since it's the most complete of them.</b>
         <br>
     </li>
