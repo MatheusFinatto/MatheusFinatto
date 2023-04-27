@@ -143,11 +143,11 @@
     <li>Playing games</li>
 </ul>
 
-<h2>
-<a href = 'https://vscode.dev/profile/github/f8518ae0d4eab3b767a1701a2f8f2d7a'>
+<h3>
+<a href = 'https://vscode.dev/profile/github/aa0dcfdf6bc0da792d5f0fafd8f024bf'>
     My VS Code Profile
 </a>
-</h2>
+</h3>
 
 </details>
 
