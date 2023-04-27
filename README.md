@@ -142,8 +142,13 @@
     <li>Watching movies</li>
     <li>Playing games</li>
 </ul>
-    
-    
+
+<h2>
+<a href = 'https://vscode.dev/profile/github/f8518ae0d4eab3b767a1701a2f8f2d7a'>
+    My VS Code Profile
+</a>
+</h2>
+
 </details>
 
 <h2>Want to know me better?</h2>
