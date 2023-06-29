@@ -19,8 +19,8 @@
     </li>
 </ul>
 
-<details>
-    <summary><h2>See more info about me!</h2></summary>
+
+ 
 
 <h2>Some Of My Personal Projects 🛠️</h2>
 <ul>
@@ -92,7 +92,8 @@
 </tr>  
         </table>
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFinatto&show_icons=true&theme=midnight-purple&layout=compact&count_private=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFinatto&show_icons=true&theme=midnight-purple&layout=compact&count_private=true)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFinatto&show_icons=true&theme=midnight-purple&layout=compact)](https://github.com/MatheusFinatto/github-readme-stats&show_icons=true)
 <h2>My Areas of Interest 🌟 </h2>
 <ul>
     <li>
@@ -142,10 +143,6 @@
     <li>Watching movies</li>
     <li>Playing games</li>
 </ul>
-
-
-
-</details>
 
 <h2>Want to know me better?</h2>
 <p>Check out my LinkedIn Or Contact Me on Instagram/WhatsApp! 📫 </p>
