@@ -1,6 +1,6 @@
 <h1>Hello there, I'm Matheus Finatto! 👋</h2>
 
-
+<h2>I'd love if you check out my <a href="https://matheusfinatto-portfolio.vercel.app/">portfolio's showcase</a>! I've put a lot of effort on it :)</h2>
 
 <h2>About Me</h2>
 <ul>
