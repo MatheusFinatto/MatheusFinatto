@@ -1,6 +1,6 @@
 <h1>Hello there, I'm Matheus Finatto! 👋</h2>
 
-<h2>I'd love if you check out my <a href="https://matheusfinatto-portfolio.vercel.app/">portfolio's showcase</a>! I've put a lot of effort on it :)</h2>
+<h2>I'd love if you check out my personal projects on my <a href="https://matheusfinatto-portfolio.vercel.app/">portfolio</a>! I've put a lot of effort on it :)</h2>
 
 <h2>About Me</h2>
 <ul>
@@ -22,24 +22,7 @@
 
  
 
-<h2>Some Of My Personal Projects 🛠️</h2>
-<ul>
-    <li>
-        <a href = 'https://github.com/MatheusFinatto/movies-library'>Matheus Finatto's Movies Library</a> - a React app that utilizes the
-        TMDB API to display information about movies, allowing users to search and
-        browse for their favorite movies. <br />
-    </li>
-    <li>
-        <a href = 'https://github.com/MatheusFinatto/tde2-web'>Bootstrap Website Design</a> - a responsive website design using only
-        HTML and CSS features. This project was made for college classes and
-        demonstrates the use of a grid system, including a sidebar. <br />
-    </li>
-    <li>
-        <a href = 'https://github.com/MatheusFinatto/projeto-entregador-5'>IGDB based Games Library</a> - This is a Flask app that utilizes the IGDB API to display information about games. This project is one of my best non-professional works, but not everything was made by me, since I collaborated with three other students for this college project. I'm particularly proud of my contribution to the "best games" section of the website, witch I developed entirely by my own.<br />
- <b>If you had to choose just one project to see, I would highly recommend this one, since it's the most complete of them.</b>
-        <br>
-    </li>
-</ul>
+
 <h2>Some Of My Favorite Technologies 💻 </h2>
     <table>
 <thead>
