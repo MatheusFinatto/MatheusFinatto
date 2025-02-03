@@ -8,8 +8,7 @@
         👨‍💻 I'm a web developer with some experience working with React.
     </li>
     <li>
-        📚 I'm also a Computer Science student currently in my 5th out of 8 semesters, and I have a Bachelor's degree in
-        Business Administration.
+        📚 I also have Bachelor's degrees in both Computer Science and Business Administration.
     </li>
     <li>
         🌎 I'm a native Portuguese speaker from Brazil, and I have an advanced level of English.
