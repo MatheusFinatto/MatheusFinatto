@@ -18,10 +18,35 @@
     </li>
 </ul>
 
+<br/>
+ <h2>Work experience 👔 </h2>
 
- 
+<table>
+<thead>
+<tr>
+<th>Job Position</th>
+<th>Company</th>
+<th>Field</th>
+<th>Work Period</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Web Developer</strong></td>
+<td><strong>Wonder Sistemas</strong></td>
+<td><strong>Front-End With React</strong></td>
+<td><strong>2022-10 — until now</strong></td>
+</tr>
+<tr>
+<td><strong>Chatbot Intern</strong></td>
+<td><strong>Compass Uol</strong></td>
+<td><strong>Back end Node.JS/chatbots Take Blip</strong></td>
+<td><strong>2021-12 — 2022-03</strong></td>
+</tr>
+</tbody>
+</table>
 
-
+<br/>
 <h2>Some Of My Favorite Technologies 💻 </h2>
     <table>
 <thead>
@@ -98,34 +123,8 @@
     <li>Work on projects that make a positive impact on society</li>
 </ul>
 
-<h2>Work experience 👔 </h2>
 
-<table>
-<thead>
-<tr>
-<th>Job Position</th>
-<th>Company</th>
-<th>Field</th>
-<th>Work Period</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Web Developer</strong></td>
-<td><strong>Wonder Sistemas</strong></td>
-<td><strong>Front-End With React</strong></td>
-<td><strong>2022-10 — until now</strong></td>
-</tr>
-</tbody>
-</table>
-
-<h2>My Hobbies 🎸 </h2>
-<ul>
-    <li>Playing guitar</li>
-    <li>Watching movies</li>
-    <li>Playing games</li>
-</ul>
-
+<br/>
 <h2>Want to know me better?</h2>
 <p>Check out my LinkedIn Or Contact Me on Instagram/WhatsApp! 📫 </p>
 <a href="https://www.linkedin.com/in/matheusfinatto" rel="nofollow">
