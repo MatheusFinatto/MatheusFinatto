@@ -5,16 +5,13 @@
 <h2>About Me</h2>
 <ul>
     <li>
-        👨‍💻 I'm a web developer with some experience working with React.
+        👨‍💻 I'm a web developer with solid experience working with React and Node.
     </li>
     <li>
-        📚 I also have Bachelor's degrees in both Computer Science and Business Administration.
+        📚 I have Bachelor's degrees in both Computer Science and Business Administration.
     </li>
     <li>
         🌎 I'm a native Portuguese speaker from Brazil, and I have an advanced level of English.
-    </li>
-    <li>
-        🚀 My primary focus is on React development, but I'm always excited to learn new things!
     </li>
 </ul>
 
@@ -34,13 +31,13 @@
 <tr>
 <td><strong>Web Developer</strong></td>
 <td><strong>Wonder Sistemas</strong></td>
-<td><strong>Front-End With React</strong></td>
+<td><strong>React</strong></td>
 <td><strong>2022-10 — until now</strong></td>
 </tr>
 <tr>
 <td><strong>Chatbot Intern</strong></td>
 <td><strong>Compass Uol</strong></td>
-<td><strong>Back end Node.JS/chatbots Take Blip</strong></td>
+<td><strong>Node.JS</strong></td>
 <td><strong>2021-12 — 2022-03</strong></td>
 </tr>
 </tbody>
