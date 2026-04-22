@@ -5,7 +5,7 @@
 <h2>About Me</h2>
 <ul>
     <li>
-        👨‍💻 I'm a web developer with solid experience working with React and Node.
+        👨‍💻 I'm a web developer with years of experience working with React and Node.
     </li>
     <li>
         📚 I have Bachelor's degrees in both Computer Science and Business Administration.
@@ -32,7 +32,7 @@
 <td><strong>Web Developer</strong></td>
 <td><strong>Wonder Sistemas</strong></td>
 <td><strong>React</strong></td>
-<td><strong>2022-10 — until now</strong></td>
+<td><strong>2022-03 — until now</strong></td>
 </tr>
 <tr>
 <td><strong>Chatbot Intern</strong></td>
