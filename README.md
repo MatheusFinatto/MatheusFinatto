@@ -32,13 +32,13 @@
 <td><strong>Web Developer</strong></td>
 <td><strong>Wonder Sistemas</strong></td>
 <td><strong>React</strong></td>
-<td><strong>2022-03 — until now</strong></td>
+<td><strong>2021-04 — until now</strong></td>
 </tr>
 <tr>
 <td><strong>Chatbot Intern</strong></td>
 <td><strong>Compass Uol</strong></td>
 <td><strong>Node.JS</strong></td>
-<td><strong>2021-12 — 2022-03</strong></td>
+<td><strong>2021-02 — 2021-04</strong></td>
 </tr>
 </tbody>
 </table>
